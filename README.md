@@ -26,4 +26,12 @@ We compare the performances of these models using accuracy score and other metri
 | ADABoost                                         | 0.8536585366    |
 | XGBoost                                          | 0.8211382114    |
 
+During Hyperparameter tuning with KNN our accuracy scores dropped as Hyperparameter tuning doesnt mean that
+the model will necessary perform better, it just optimizises it for the training data + CV data and that
+might hurt the generelization if our model overfits.
+
+Logistic Regression performed the best as the dataset might be roughly linear and LR generalizes better on smaller dataset.
+
+
+
 
