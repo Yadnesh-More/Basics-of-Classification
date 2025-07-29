@@ -15,13 +15,15 @@ Models used in this project:
 
 We compare the performances of these models using accuracy score and other metrics:
 
-Model	Accuracy Score
-Logistic Regression	0.861788618
-K Neighbors Classifier	0.837398374
-K Neighbors Classifier (Manual Tuning)	0.853658537
-K Neighbors Classifier (Hyperparameter Tuning)	0.601626016
-Random Forest Classifier	0.829268293
-ADABoost	0.853658537
-XGBoost	0.821138211
-<img width="129" height="181" alt="image" src="https://github.com/user-attachments/assets/c914be8b-f16d-47cc-ac01-1acaf4296115" />
+
+| Model                                             | Accuracy Score  |
+|--------------------------------------------------|-----------------|
+| Logistic Regression                              | 0.8617886179    |
+| K Neighbors Classifier                           | 0.837398374     |
+| K Neighbors Classifier (Manual Tuning)           | 0.8536585366    |
+| K Neighbors Classifier (Hyperparameter Tuning)   | 0.6016260163    |
+| Random Forest Classifier                         | 0.8292682927    |
+| ADABoost                                         | 0.8536585366    |
+| XGBoost                                          | 0.8211382114    |
+
 
