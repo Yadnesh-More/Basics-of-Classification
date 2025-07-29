@@ -35,3 +35,4 @@ Logistic Regression performed the best as the dataset might be roughly linear an
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yadnesh-More/Basics-of-Classification/blob/main/01_basics_of_logistic_loanprediction.ipynb)
 
 
+
